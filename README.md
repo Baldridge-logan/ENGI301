@@ -1,2 +1,2 @@
 # ENGI301
-This is a code repository for Rice University's ENGI 301 course.
+Repository for ENGI301 course work
